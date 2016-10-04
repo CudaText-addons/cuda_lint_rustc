@@ -1,0 +1,5 @@
+[info]
+title=Linter for Rust, using rustc
+desc=Linter for CudaLint, adds support for Rust lexer, using rustc
+type=cudatext-plugin
+subdir=cuda_lint_rustc
